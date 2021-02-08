@@ -1,6 +1,7 @@
 ﻿using NUnit.Framework;
 using System.IO;
 using System.Text.RegularExpressions;
+using Frends.Community.PgpDecryptFile;
 
 
 namespace FRENDS.Community.PgpDecrypt.Tests

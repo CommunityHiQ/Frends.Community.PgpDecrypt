@@ -8,7 +8,7 @@ using Frends.Tasks.Attributes;
 
 #pragma warning disable 1591
 
-namespace FRENDS.Community.PgpDecrypt
+namespace Frends.Community.PgpDecryptFile
 {
     public class Input
     {

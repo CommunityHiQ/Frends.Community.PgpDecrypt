@@ -8,7 +8,7 @@
     <ProjectGuid>{97D07B5F-7D31-4D07-B89A-F4087EBEB82B}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Frends.Community.PgpDecrypt</RootNamespace>
+    <RootNamespace>Frends.Community.PgpDecryptFile</RootNamespace>
     <AssemblyName>Frends.Community.PgpDecryptFile</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
