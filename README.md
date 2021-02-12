@@ -10,6 +10,9 @@
    - [License](#license)
        
 # Frends.Community.PgpDecryptFile
+
+This Task is deprecated. Use [Frends.Community.Pgp](https://github.com/CommunityHiQ/Frends.Community.Pgp) Tasks insted.
+
 This repository contais FRENDS4 Community Task to decrypt PGP encrypted messages
 
 ## Installing
